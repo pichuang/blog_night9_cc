@@ -1,0 +1,13 @@
+output/
+cache/
+*.egg-info
+.*.swp
+.*.swo
+*.pyc
+docs/_build
+docs/fr/_build
+build
+dist
+output
+tags
+.tox
