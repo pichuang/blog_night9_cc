@@ -1,5 +1,5 @@
-output/
-cache/
+output/*
+cache/*
 *.egg-info
 .*.swp
 .*.swo
