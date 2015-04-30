@@ -1,6 +1,6 @@
 output/*
-cache/ArticlesGenerator-Readers
-cache/PagesGenerator-Readers
+cache/*
+cache/*
 *.egg-info
 .*.swp
 .*.swo
